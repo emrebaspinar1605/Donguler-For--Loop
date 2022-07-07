@@ -1,0 +1,15 @@
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\bin\Debug\net6.0\Donguler-For--Loop.exe
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\bin\Debug\net6.0\Donguler-For--Loop.deps.json
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\bin\Debug\net6.0\Donguler-For--Loop.runtimeconfig.json
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\bin\Debug\net6.0\Donguler-For--Loop.dll
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\bin\Debug\net6.0\Donguler-For--Loop.pdb
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\Donguler-For--Loop.csproj.AssemblyReference.cache
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\Donguler-For--Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\Donguler-For--Loop.AssemblyInfoInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\Donguler-For--Loop.AssemblyInfo.cs
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\Donguler-For--Loop.csproj.CoreCompileInputs.cache
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\Donguler-For--Loop.dll
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\refint\Donguler-For--Loop.dll
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\Donguler-For--Loop.pdb
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\Donguler-For--Loop.genruntimeconfig.cache
+C:\Users\Turku\Desktop\Pratikler\Donguler-For--Loop\obj\Debug\net6.0\ref\Donguler-For--Loop.dll
